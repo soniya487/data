@@ -1,0 +1,146 @@
+{
+  "AE": {
+    "default": {
+      "police": "999",
+      "ambulance": "998",
+      "fire": "997",
+      "coast_guard": "996",
+      "search_and_rescue": "995",
+      "electricity_emergency": "991"
+    },
+    "states": {}
+  },
+  "AI": {
+    "default": {
+      "general_emergency": "911",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911"
+    },
+    "states": {}
+  },
+  "AM": {
+    "default": {
+      "general_emergency": "112",
+      "police": "112",
+      "rescue": "112"
+    },
+    "states": {}
+  },
+  "AR": {
+    "default": {
+      "general_emergency": "911",
+      "police": "911",
+      "fire": "100",
+      "civil_defense": "103",
+      "environmental_emergency": "105",
+      "maritime_emergency": "106",
+      "women_helpline": "144",
+      "suicide_helpline": "135"
+    },
+    "states": {
+      "Buenos Aires": {
+        "default": {
+          "ambulance": "107"
+        },
+        "cities": {},
+        "zips": {}
+      }
+    }
+  },
+  "AT": {
+    "default": {
+      "general_emergency": "112",
+      "police": "133",
+      "ambulance": "144",
+      "fire": "122",
+      "gas_emergency": "128",
+      "mountain_rescue": "140",
+      "emergency_doctor": "141",
+      "crisis_hotline": "142",
+      "child_helpline": "147",
+      "poison_control": "01 406 43 43",
+      "women_helpline": "+43 800 222 555"
+    },
+    "states": {}
+  },
+  "AU": {
+    "default": {
+      "general_emergency": "000",
+      "police": "000",
+      "ambulance": "000",
+      "fire": "000",
+      "mobile_emergency": "112",
+      "text_emergency": "106"
+    },
+    "states": {}
+  },
+  "AW": {
+    "default": {
+      "general_emergency": "911",
+      "police": "911",
+      "ambulance": "911",
+      "fire": "911"
+    },
+    "states": {}
+  },
+  "AD": {
+    "default": {
+      "police": "110",
+      "ambulance": "116",
+      "fire": "118",
+      "mountain_rescue": "112"
+    },
+    "states": {}
+  },
+  "AL": {
+    "default": {
+      "general_emergency": "112",
+      "police": "129",
+      "ambulance": "127",
+      "fire": "128",
+      "disaster_management": "116116"
+    },
+    "states": {}
+  },
+  "AG": {
+    "default": {
+      "ambulance": "911"
+    },
+    "states": {}
+  },
+  "AO": {
+    "default": {
+      "police": "110",
+      "ambulance": "112",
+      "fire": "118"
+    },
+    "states": {}
+  },
+  "AQ": {
+    "default": {},
+    "states": {}
+  },
+  "AS": {
+    "default": {},
+    "states": {}
+  },
+  "AX": {
+    "default": {},
+    "states": {}
+  },
+  "AZ": {
+    "default": {
+      "general_emergency": "112",
+      "police": "102",
+      "ambulance": "103",
+      "fire": "101",
+      "gas_emergency": "104"
+    },
+    "states": {}
+  },
+  "AF": {
+    "default": {},
+    "states": {}
+  }
+}
